@@ -1,0 +1,5 @@
+Create OR REPLACE table testrelease.dbo.test
+(
+a int,
+b int
+)
