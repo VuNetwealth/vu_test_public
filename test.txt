@@ -1,5 +1,6 @@
 Create OR REPLACE table testrelease.dbo.test
 (
 a int,
-b varchar(20)
+b varchar(20),
+c varchar(40)
 )
